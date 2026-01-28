@@ -136,4 +136,4 @@ The dataset was cleaned in **MySQL** to ensure accuracy, consistency, and readin
 * [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
 * [Affordable Housing Dashboard](https://github.com/promiserex/eluepromise-portfolio/blob/main/Affordable%20Housing%20Dashboard.pbix) → Power BI
 ---
-### The detailed analysis is available on my project website: **[View Full Analysis Here](https://rexbucks7.wixsite.com/elueportfolio)**
+### The detailed analysis is available on my project website: **[View Full Analysis Here](https://rexbucks7.wixsite.com/elueportfolio/affordable-housing)**
